@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MTree/examples.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
